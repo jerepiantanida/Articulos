@@ -1,0 +1,11 @@
+com\analistas\service\ProveedorServiceImpl.class
+com\analistas\entities\Proveedor.class
+com\analistas\articulos\ArticulosApplication.class
+com\analistas\controller\ProveedorController.class
+com\analistas\entities\Producto.class
+com\analistas\service\IProductoService.class
+com\analistas\service\ProductoServiceImpl.class
+com\analistas\controller\ProductoController.class
+com\analistas\repository\IProveedorRepo.class
+com\analistas\service\IProveedorService.class
+com\analistas\repository\IProductoRepo.class
